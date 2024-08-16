@@ -195,7 +195,7 @@ body{
     font-size: 20px;
 }
 .text-encryption__input{
-    height: 450px;
+    height: 380px;
     width: 100%;
     border: 3px solid var(--dark-blue-300);
     border-radius: 20px;
